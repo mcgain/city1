@@ -4,3 +4,5 @@ source 'https://rubygems.org'
 gem 'gosu'
 gem 'hasu'
 gem 'require_all'
+
+gem 'pry-byebug'

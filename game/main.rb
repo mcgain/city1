@@ -17,7 +17,7 @@ class Game < Hasu::Window
   def draw
     draw_background
     draw_roads
-    draw_buildings
+    # draw_buildings
   end
 
   def draw_roads
